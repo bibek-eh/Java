@@ -3,10 +3,8 @@ import java.util.Scanner;
 public class ubank {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
-        int pin , bal = 50000, choice,epin,i=0;
+        int pin = 5555, bal = 50000, choice,epin,i=0;
         float rem,wd,tot,dep;
-        System.out.print("Set a pin for the code: ");
-        pin = scanner.nextInt();        
         while( i!=3 ){
             System.out.print("Enter your pin: ");
             epin = scanner.nextInt();
