@@ -1,3 +1,5 @@
+// Enter your Email and it will seperate your name and domain 
+
 import java.util.Scanner;
 
 public class emailtouname {
