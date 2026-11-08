@@ -1,3 +1,6 @@
+// Note : Pin is already seted that is 5555 so use this pin to login
+
+
 import java.util.Scanner;
 
 public class ubank {
@@ -50,7 +53,7 @@ public class ubank {
         }
             else{
                 if((2-i)>0){
-                System.out.println("\nTry again you have "+ (2-i)+" attempts left!!!");
+                System.out.println("\nTry again!! \nyou have "+ (2-i)+" attempts left!!!");
                 System.out.println("##########################################\n");
 
                 }
