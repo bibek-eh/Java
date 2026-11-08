@@ -25,7 +25,7 @@ public class ubank {
                         System.out.println("The remaining amount is: "+ rem);
                     }
                     else if(rem<0){
-                        System.out.println("Sorry!!\nYou Doesn't have these much amount");
+                        System.out.println("Sorry!!\nYou Don't have this much amount");
                     }
                     break;
                 case 2:
